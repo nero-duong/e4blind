@@ -1,0 +1,53 @@
+.col-sm-12{
+  background: red;
+    border: dashed 1px black;
+}
+.col-lg-4{
+    background: grey;
+    border: dashed 1px #ffeeba;
+}
+
+img{
+    height: 35px;
+    width: 35px;
+    margin-left: 25px;
+    line-height: 15px;
+}
+/*.navbar-nav*/
+.navbar-nav{
+    height:65px;
+}
+/*.navbar-light*/
+.navbar-light
+{
+    padding-left: 20px;
+    background: #00bff3;
+    color: white;
+}
+.navbar-light a{
+    color: white;
+    font-size: 24px;
+}
+.navbar-light li a{
+    height: 65px;
+    padding-top: 20px;
+}
+/*.active*/
+.active{
+    background: #f39c12;
+}
+.navbar-light li a:hover{
+    background-color: #f39c12;
+}
+/*.navbar-right*/
+.navbar-right img{
+    margin-left: 0;
+
+}
+.navbar-right li a{
+    padding-top: 15px;
+}
+.navbar-right{
+    margin-right: 20px;
+
+}

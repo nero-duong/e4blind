@@ -1,0 +1,276 @@
+<!-- edited with XMLSpy v2007 rel. 3 (http://www.altova.com) by Administrator (EMBRACE) -->
+<UNIT>
+<BACKGROUND>UNIT.bmp</BACKGROUND>
+<AU-INTRO>UNITmc.wav</AU-INTRO>
+<RECORD/>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>2.1mc.wav</AU_MC>
+<AU_E Title="">s_Let's talk.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>2.1.bmp-2.1.1.bmp-2.1.2.bmp</IMAGE_E>
+<IMAGE_V>2.1v.bmp-2.1.1v.bmp-2.1.2v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>2.2mc.wav</AU_MC>
+<AU_E Title="">s_Say and act.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>2.2.bmp-2.2.1Q.bmp-2.2.1A.bmp-2.2.2Q.bmp-2.2.2A.bmp-2.2.3Q.bmp</IMAGE_E>
+<IMAGE_V>2.2v.bmp-2.2.1Qv.bmp-2.2.1Av.bmp-2.2.2Qv.bmp-2.2.2Av.bmp-2.2.3Qv.bmp</IMAGE_V>
+<IMAGE_A>2.2ans.bmp</IMAGE_A>
+<IMAGE_AV>2.2ansv.bmp</IMAGE_AV>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>3.1mc.wav</AU_MC>
+<AU_E Title="">s_Let's sing.wav-3.1.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>3.1.bmp</IMAGE_E>
+<IMAGE_V>3.1v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>3.2mc.wav</AU_MC>
+<AU_E Title="">s_Let's move.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>3.2.bmp-3.2.1.bmp-3.2.2.bmp</IMAGE_E>
+<IMAGE_V>3.2v.bmp-3.2.1v.bmp-3.2.2v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>4.1mc.wav</AU_MC>
+<AU_E Title="">s_Words.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>4.1.bmp-4.1.1.bmp-4.1.2.bmp-4.1.3.bmp-4.1.4.bmp</IMAGE_E>
+<IMAGE_V>4.1v.bmp-4.1.1v.bmp-4.1.2v.bmp-4.1.3v.bmp-4.1.4v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>5.1mc.wav</AU_MC>
+<AU_E Title="">s_Sentences.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>5.1.bmp-5.1.1.bmp-5.1.2.bmp-5.1.3.bmp-5.1.4.bmp</IMAGE_E>
+<IMAGE_V>5.1v.bmp-5.1.1v.bmp-5.1.2v.bmp-5.1.3v.bmp-5.1.4v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn More</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>6.1mc.wav</AU_MC>
+<AU_E Title="">s_Words.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>6.1.bmp-6.1.1.bmp-6.1.2.bmp-6.1.3.bmp-6.1.4.bmp</IMAGE_E>
+<IMAGE_V>6.1v.bmp-6.1.1v.bmp-6.1.2v.bmp-6.1.3v.bmp-6.1.4v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn More</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>7.1mc.wav</AU_MC>
+<AU_E Title="">s_Question and answer.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>7.1.bmp-7.1.1Q.bmp-7.1.1A.bmp-7.1.2Q.bmp-7.1.2A.bmp-7.1.3Q.bmp-7.1.3A.bmp-7.1.4Q.bmp-7.1.4A.bmp</IMAGE_E>
+<IMAGE_V>7.1v.bmp-7.1.1Qv.bmp-7.1.1Av.bmp-7.1.2Qv.bmp-7.1.2Av.bmp-7.1.3Qv.bmp-7.1.3Av.bmp-7.1.4Qv.bmp-7.1.4Av.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>The Alphabet</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>8.2mc.wav</AU_MC>
+<AU_E Title="">s_Letters.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>8.2.bmp-8.2.1.bmp-8.2.2.bmp-8.2.3.bmp-8.2.4.bmp-8.2.5.bmp-8.2.6.bmp-8.2.7.bmp-8.2.8.bmp-8.2.9.bmp-8.2.10.bmp-8.2.11.bmp-8.2.12.bmp-8.2.13.bmp-8.2.14.bmp-8.2.15.bmp-8.2.16.bmp-8.2.17.bmp-8.2.18.bmp-8.2.19.bmp-8.2.20.bmp-8.2.21.bmp-8.2.22.bmp-8.2.23.bmp-8.2.24.bmp-8.2.25.bmp-8.2.26.bmp</IMAGE_E>
+<IMAGE_V>8.2v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>The Alphabet</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>8.1mc.wav</AU_MC>
+<AU_E Title="">s_Sing and say.wav-8.1.wav</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>8.1.1.bmp-8.1.2.bmp</IMAGE_E>
+<IMAGE_V>8.1.1v.bmp-</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Build</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>9.1mc.wav</AU_MC>
+<AU_E Title="">s_Ask.wav-</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>9.1.bmp-9.1.1Q.bmp-9.1.1A.bmp-9.1.2Q.bmp-9.1.2A.bmp-9.1.3Q.bmp-9.1.3A.bmp-9.1.4Q.bmp-9.1.4A.bmp</IMAGE_E>
+<IMAGE_V>9.1v.bmp-9.1.1Qv.bmp-9.1.1Av.bmp-9.1.2Qv.bmp-9.1.2Av.bmp-9.1.3Qv.bmp-9.1.3Av.bmp-9.1.4Qv.bmp-9.1.4Av.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Build</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>9.2mc.wav</AU_MC>
+<AU_E Title="">s_Answer.wav</AU_E>
+<AU_V Title=""/>
+</AU>
+<IMAGE>
+<IMAGE_E>9.2.bmp-9.2.1Q.bmp-9.2.1A.bmp-9.2.2Q.bmp-9.2.2A.bmp-9.2.3Q.bmp-9.2.3A.bmp-9.2.4Q.bmp-9.2.4A.bmp</IMAGE_E>
+<IMAGE_V>9.2v.bmp-9.2.1Qv.bmp-9.2.1Av.bmp-9.2.2Qv.bmp-9.2.2Av.bmp-9.2.3Qv.bmp-9.2.3Av.bmp-9.2.4Qv.bmp-9.2.4Av.bmp</IMAGE_V>
+<IMAGE_A>9.2ans.bmp</IMAGE_A>
+<IMAGE_AV>9.2ansv.bmp</IMAGE_AV>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Review</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>Note_1mc.wav</AU_MC>
+<AU_E Title="s_Lesson music.wav">-</AU_E>
+<AU_V Title="s_Lesson music.wav">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>Note_1mc.bmp</IMAGE_E>
+<IMAGE_V/>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Review</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>Note_2mc.wav</AU_MC>
+<AU_E Title="s_Lesson music.wav">-</AU_E>
+<AU_V Title="s_Lesson music.wav">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>Note_2mc.bmp</IMAGE_E>
+<IMAGE_V/>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Review</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>Note_3mc.wav</AU_MC>
+<AU_E Title="s_Lesson music.wav">-</AU_E>
+<AU_V Title="s_Lesson music.wav">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>Note_3mc.bmp</IMAGE_E>
+<IMAGE_V/>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+</UNIT>

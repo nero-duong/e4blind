@@ -1,0 +1,169 @@
+.content-unit{
+    /*background-image: url("../data/begin/UNIT1/IMAGE/UNIT.bmp");*/
+    /*position: absolute;*/
+    /*top: 200px;*/
+    /*position: absolute;*/
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+    /*background-repeat: no-repeat;*/
+}
+.unit img{
+    position: absolute;
+    z-index: -1;
+}
+.unit{
+    height:240px;
+    width: 320px;
+    position: absolute;
+    z-index: 0;
+}
+
+
+
+.unit .start{
+    height: 28px;
+    width: 98px;
+    border: solid 2px #ffc107;
+    position: absolute;
+    margin-left: 50px;
+    top: 23px;
+    z-index: 1;
+
+}
+.unit .start-mouse{
+    height: 28px;
+    width: 98px;
+    /*border: solid 2px #ffc107;*/
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 23px;
+    cursor: pointer;
+    z-index: 2;
+
+}
+/*Let's learn*/
+.unit .learn{
+    height: 30px;
+    width: 100px;
+    border: solid 2px #ffc107;
+    position: absolute;
+    margin-left: 50px;
+    top: 63px;
+    z-index: 1;
+}
+.unit .learn-mouse{
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    /*border: solid 2px #ffc107;*/
+    position: absolute;
+    margin-left: 50px;
+    top: 63px;
+    z-index: 2;
+}
+/*Learn more*/
+.more{
+    height: 30px;
+    width: 135px;
+    border: solid 2px #ffc107;
+    position: absolute;
+    margin-left: 50px;
+    top: 110px;
+    z-index: 1;
+}
+.unit .more-mouse{
+    cursor: pointer;
+    height: 30px;
+    width: 135px;
+    /*border: solid 2px #ffc107;*/
+    position: absolute;
+    margin-left: 50px;
+    top: 110px;
+    z-index: 2;
+}
+/*The Alphabet*/
+.alphabet{
+    height: 30px;
+    width: 120px;
+    border: solid 2px #ffc107;
+    position: absolute;
+    margin-left: 50px;
+    top: 155px;
+    z-index: 1;
+}
+.unit .alphabet-mouse{
+    cursor: pointer;
+    height: 30px;
+    width: 120px;
+    /*border: solid 2px #ffc107;*/
+    position: absolute;
+    margin-left: 50px;
+    top: 155px;
+    z-index: 2;
+}
+/*Let's Build*/
+.build{
+    height: 30px;
+    width: 90px;
+    border: solid 2px #ffc107;
+    position: absolute;
+    margin-left: 200px;
+    top: 40px;
+    z-index: 1;
+}
+.unit .build-mouse{
+    cursor: pointer;
+    height: 30px;
+    width: 90px;
+    /*border: solid 2px #ffc107;*/
+    position: absolute;
+    margin-left: 200px;
+    top: 40px;
+    z-index: 2;
+}
+/*Review*/
+.review{
+    height: 30px;
+    width: 70px;
+    border: solid 2px #ffc107;
+    position: absolute;
+    margin-left: 220px;
+    top: 107px;
+    z-index: 1;
+}
+.review-mouse{
+    cursor: pointer;
+    height: 30px;
+    width: 70px;
+    /*border: solid 2px #ffc107;*/
+    position: absolute;
+    margin-left: 220px;
+    top: 107px;
+    z-index: 2;
+}
+/*Let's learn about*/
+.about{
+    height: 30px;
+    width: 140px;
+    border: solid 2px #ffc107;
+    position: absolute;
+    margin-left: 180px;
+    top: 169px;
+    z-index: 1;
+}
+
+.about-mouse{
+    height: 30px;
+    width: 140px;
+    /*border: solid 2px #ffc107;*/
+    position: absolute;
+    margin-left: 180px;
+    top: 169px;
+    cursor: pointer;
+    z-index: 2;
+}
+/*div select book*/
+.select-book{
+
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo</title>
+    <!--CSS: bootstrap-->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="dist/css/bootstrap.css">
+
+    <!--CSS: customize-->
+    <link rel="stylesheet" href="css/demo-css.css">
+
+    <!--JS: jQuery-->
+    <!--<script src="js/jquery-3.2.1.min.js"></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!--AngularJS-->
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+    <!--<script src="dist/js/bootstrap.js"></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script>
+
+    <!--JS: Bootstrap-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!--JS: Customize-->
+    <script src="js/demo-controller.js"></script>
+
+
+
+</head>
+<body ng-app = "myApp">
+    <div class="container-fluid" ng-controller = "myController">
+        <div class="row">
+            <div class="col-md-2">
+                <div>Select Book:
+                    <select ng-model="myVarBook">
+                        <option value="begin">Let's begin</option>
+                        <option value="go1">Go 1</option>
+                        <option value="go2">Go 2</option>
+                    </select>
+                </div>
+                <div>Select Unit:
+
+                    <select ng-model="myVarUnit">
+                        <option value="uni1">Unit 1</option>
+                        <option value="unit2">Unit 2</option>
+                        <option value="unit3">Unit 3</option>
+                    </select>
+                </div>
+                <div>
+                    <input type="button" value="Learn" ng-click = "learnFun()">
+                </div>
+            </div><!--end col-md-2-->
+
+            <div class="col-md-10">
+               <div>
+                   {{nero_template}}
+                   <!--start-view-template -->
+                   <div my-directive class="directive"></div>
+               </div>
+            </div><!--end col-md-10-->
+        </div><!--end row-->
+    </div><!--end .container-->
+
+
+</body>
+</html>

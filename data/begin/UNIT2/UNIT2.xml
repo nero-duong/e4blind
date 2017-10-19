@@ -1,0 +1,311 @@
+<UNIT>
+<BACKGROUND>UNIT.bmp</BACKGROUND>
+<AU-INTRO>Unitmc.wav</AU-INTRO>
+<RECORD/>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>10.1mc.wav</AU_MC>
+<AU_E Title="s_Let's talk.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>10.1.bmp-10.1.1.bmp-10.1.2.bmp-10.1.3.bmp-10.1.4.bmp</IMAGE_E>
+<IMAGE_V>10.1v.bmp-10.1.1v.bmp-10.1.2v.bmp-10.1.3v.bmp-10.1.4v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>10.2mc.wav</AU_MC>
+<AU_E Title="s_Say and act.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>10.2.bmp-10.2.1.bmp-10.2.2.bmp-10.2.3.bmp-10.2.4.bmp</IMAGE_E>
+<IMAGE_V>10.2v.bmp-10.2.1v.bmp-10.2.2v.bmp-10.2.1-3v.bmp-10.2.4v.bmp</IMAGE_V>
+<IMAGE_A>10.2ans.bmp</IMAGE_A>
+<IMAGE_AV>10.2ansv.bmp</IMAGE_AV>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>11.1mc.wav</AU_MC>
+<AU_E Title="s_Let's sing.wav">-11.1.wav</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>11.1.1.bmp-11.1.2.bmp</IMAGE_E>
+<IMAGE_V>11.1.1v.bmp-11.1.2v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Start</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>11.2mc.wav</AU_MC>
+<AU_E Title="s_Let's move.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>11.2.bmp-11.2.1.bmp-11.2.2.bmp</IMAGE_E>
+<IMAGE_V>11.2v.bmp-11.2.2v.bmp-11.2.1v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>12.1mc.wav</AU_MC>
+<AU_E Title="s_Words.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>12.1.bmp-12.1.1.bmp-12.1.2.bmp-12.1.3.bmp-12.1.4.bmp-12.1.5.bmp</IMAGE_E>
+<IMAGE_V>12.1v.bmp-12.1.1v.bmp-12.1.2v.bmp-12.1.3v.bmp-12.1.4v.bmp-12.1.5v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>13.1mc.wav</AU_MC>
+<AU_E Title="s_Sentences.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>13.1.bmp-13.1.1.bmp-13.1.2.bmp-13.1.3.bmp-13.1.4.bmp-13.1.5.bmp</IMAGE_E>
+<IMAGE_V>13.1v.bmp-13.1.1v.bmp-13.1.2v.bmp-13.1.3v.bmp-13.1.4v.bmp-13.1.5v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn More</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>14.1mc.wav</AU_MC>
+<AU_E Title="s_Words.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>14.1.bmp-14.1.1.bmp-14.1.2.bmp-14.1.3.bmp-14.1.4.bmp-14.1.5.bmp</IMAGE_E>
+<IMAGE_V>14.1v.bmp-14.1.1v.bmp-14.1.2v.bmp-14.1.3v.bmp-14.1.4v.bmp-14.1.5v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn More</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>15.1mc.wav</AU_MC>
+<AU_E Title="s_Question and answer.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>15.1.bmp-15.1.1q.bmp-15.1.1a.bmp-15.1.2q.bmp-15.1.2a.bmp-15.1.3q.bmp-15.1.3a.bmp-15.1.4q.bmp-15.1.4a.bmp-15.1.5q.bmp-15.1.5a.bmp</IMAGE_E>
+<IMAGE_V>15.1v.bmp-15.1.1qv.bmp-15.1.1av.bmp-15.1.2qv.bmp-15.1.2av.bmp-15.1.3qv.bmp-15.1.3av.bmp-15.1.4qv.bmp-15.1.4av.bmp-15.1.5qv.bmp-15.1.5av.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>The Alphabet</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>16.1mc.wav</AU_MC>
+<AU_E Title="s_Sing and say.wav">-16.1.wav</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>16.1.bmp</IMAGE_E>
+<IMAGE_V>16.1v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>The Alphabet</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>16.2mc.wav</AU_MC>
+<AU_E Title="s_Letters and words.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>16.2.bmp-16.2.1.bmp-16.2.2.bmp-16.2.3.bmp-16.2.4.bmp</IMAGE_E>
+<IMAGE_V>16.2v.bmp-16.2.1v.bmp-16.2.2v.bmp-16.2.3v.bmp-16.2.4v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Build</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>17.1mc.wav</AU_MC>
+<AU_E Title="s_Sentences.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>17.1.bmp-17.1.1.bmp-17.1.2.bmp-17.1.3.bmp-17.1.4.bmp</IMAGE_E>
+<IMAGE_V>17.1v.bmp-17.1.1v.bmp-17.1.2v.bmp-17.1.3v.bmp-17.1.4v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Build</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>17.2mc.wav</AU_MC>
+<AU_E Title="s_Question and answer.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>17.2.bmp-17.2.1q.bmp-17.2.1a.bmp-17.2.2q.bmp-17.2.2a.bmp-17.2.3q.bmp-17.2.3a.bmp-17.2.4q.bmp-17.2.4a.bmp-17.2.5q.bmp-17.2.5a.bmp-17.2.6q.bmp-17.2.6a.bmp-17.2.7q.bmp-17.2.7a.bmp-17.2.8q.bmp-17.2.8a.bmp</IMAGE_E>
+<IMAGE_V>17.2v.bmp-17.2.1qv.bmp-17.2.1av.bmp-17.2.2qv.bmp-17.2.2av.bmp-17.2.3qv.bmp-17.2.3av.bmp-17.2.4qv.bmp-17.2.4av.bmp-17.2.5qv.bmp-17.2.5av.bmp-17.2.6qv.bmp-17.2.6av.bmp-17.2.7qv.bmp-17.2.7av.bmp-17.2.8qv.bmp-17.2.8av.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Review</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>Note_1mc.wav</AU_MC>
+<AU_E Title="s_Lesson music.wav">-</AU_E>
+<AU_V Title="s_Lesson music.wav">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>note_1mc.bmp</IMAGE_E>
+<IMAGE_V/>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Review</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>Note_2mc.wav</AU_MC>
+<AU_E Title="s_Lesson music.wav">-</AU_E>
+<AU_V Title="s_Lesson music.wav">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>note_2mc.bmp</IMAGE_E>
+<IMAGE_V/>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Review</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>Note_3mc.wav</AU_MC>
+<AU_E Title="s_Lesson music.wav">-</AU_E>
+<AU_V Title="s_Lesson music.wav">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>note_3mc.bmp</IMAGE_E>
+<IMAGE_V/>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Review</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>18.1mc.wav</AU_MC>
+<AU_E Title="s_Listen and circle.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>18.1.bmp-18.1.1.bmp-18.1.2.bmp-18.1.3.bmp-18.1.4.bmp-18.1.5.bmp-18.1.6.bmp</IMAGE_E>
+<IMAGE_V>18.1v.bmp-18.1.1v.bmp-18.1.2v.bmp-18.1.3v.bmp-18.1.4v.bmp-18.1.5v.bmp-18.1.6v.bmp</IMAGE_V>
+<IMAGE_A>18.1.1ans.bmp-18.1.2ans.bmp-18.1.3ans.bmp-18.1.4ans.bmp-18.1.5ans.bmp-18.1.6ans.bmp</IMAGE_A>
+<IMAGE_AV>18.1.1ansv.bmp-18.1.2ansv.bmp-18.1.3ansv.bmp-18.1.4ansv.bmp-18.1.5ansv.bmp-18.1.6ansv.bmp</IMAGE_AV>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+<LESSON>
+<PLACE>Let's Learn About</PLACE>
+<CONTENT>
+<AU>
+<AU_MC>19.1mc.wav</AU_MC>
+<AU_E Title="s_Say these.wav">-</AU_E>
+<AU_V Title="">-</AU_V>
+</AU>
+<IMAGE>
+<IMAGE_E>19.1.bmp-19.1.1.bmp-19.1.2.bmp-19.1.3.bmp-19.1.4.bmp-19.1.5.bmp-19.1.6.bmp</IMAGE_E>
+<IMAGE_V>19.1v.bmp-19.1.1v.bmp-19.1.2v.bmp-19.1.3v.bmp-19.1.4v.bmp-19.1.5v.bmp-19.1.6v.bmp</IMAGE_V>
+<IMAGE_A/>
+<IMAGE_AV/>
+<TAPESCRIPT/>
+<TAPESCRIPT_V/>
+</IMAGE>
+</CONTENT>
+</LESSON>
+</UNIT>

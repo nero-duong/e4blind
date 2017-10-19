@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Demo AngularJS and Bootstrap</title>
+    <!--<link rel="stylesheet" href="dist/css/bootstrap.css">-->
+    <!--<link rel="stylesheet" href="dist/css/bootstrap-grid.css">-->
+    <!--<link rel="stylesheet" href="dist/css/bootstrap-reboot.css">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/stype.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script>
+
+
+
+</head>
+<body>
+<nav class="navbar navbar-light">
+<div class="container-fluid">
+    <div class="navbar-header">
+        <a class="navbar-brand"> <img src="imgs/HappySun.png"> </a>
+    </div>
+    <div class="col">
+    <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Trang chủ</a></li>
+        <li><a href="#">Giới thiệu</a></li>
+        <li><a href="#">Hỗ trợ</a></li>
+        <li><a href="#">Liên hệ</a></li>
+    </ul>
+    </div>
+    <div class="col">
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><img src="imgs/facebook.png"></a></li>
+        <li><a href="#"><img src="imgs/in.png"></a></li>
+        <li><a href="#"><img src="imgs/google.png"></a></li>
+        <li><a href="#"><img src="imgs/twitter.png"></a></li>
+        <li><a href="#"><img src="imgs/instagram.png"></a></li>
+
+    </ul>
+    </div>
+</div>
+</nav>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <h3>Select Book</h3>
+            <div>Select Book:
+                <select ng-model="myVarBook">
+                    <option value="begin">Let's begin</option>
+                    <option value="go1">Go 1</option>
+                    <option value="go2">Go 2</option>
+                    <option value="go3">Go 3</option>
+                    <option value="go4">Go 4</option>
+                </select>
+            </div>
+            <div>Select Unit:
+
+                <select ng-model="myVarUnit">
+                    <option value="uni1">Unit 1</option>
+                    <option value="unit2">Unit 2</option>
+                    <option value="unit3">Unit 3</option>
+                </select>
+            </div>
+            <div>
+                <input type="button" value="Let's learn" ng-click = "learnFun()">
+            </div>
+        </div><!--end .col-md-3-->
+    </div><!--end .row-->
+
+</div><!--end .container-->
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>-->
+<!--<script src="dist/js/bootstrap.js"></script>-->
+</body>
+</html>
